@@ -1,2 +1,2 @@
 dubbo-mini:
-  protocolName: https
+  protocolName: http
